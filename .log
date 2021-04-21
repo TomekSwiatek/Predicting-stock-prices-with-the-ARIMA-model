@@ -1138,3 +1138,16 @@
 2021-04-19 19:19:48,839 [5848] INFO     matplotlib.category:219: [JupyterRequire] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
 2021-04-19 19:19:48,900 [5848] INFO     matplotlib.category:219: [JupyterRequire] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
 2021-04-19 19:19:56,912 [5848] INFO     matplotlib.category:219: [JupyterRequire] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2021-04-19 19:19:56,973 [5848] INFO     matplotlib.category:219: [JupyterRequire] Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2021-04-21 19:08:55,951 [15948] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-04-21 19:08:55,952 [15948] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-04-21 19:08:55,952 [15948] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-04-21 19:08:55,956 [15948] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-04-21 19:08:55,957 [15948] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-04-21 19:08:55,958 [15948] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-04-21 19:08:56,465 [15948] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-04-21 19:08:56,465 [15948] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-04-21 19:08:56,465 [15948] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-04-21 19:08:56,467 [15948] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-04-21 19:08:56,468 [15948] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-04-21 19:08:56,468 [15948] DEBUG    root:97: [JupyterRequire] Registering comm targets.
